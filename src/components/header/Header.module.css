@@ -1,0 +1,12 @@
+.header {
+  height: 7rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #f4f1f1;
+}
+.header a:Hover{
+color:#F4F1F1 ;
+background-color: #F62424;
+
+}
